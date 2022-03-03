@@ -1,0 +1,19 @@
+body{
+    background-color: grey;
+    margin: 0%;
+}
+.irfan{
+    font-family: 'Courier New', Courier, monospace;
+    color: whitesmoke;
+    background-color: black;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: darkorange;
+    margin: 0%;
+}
+
+.end{
+    background-color: black;
+    color: whitesmoke;
+}
